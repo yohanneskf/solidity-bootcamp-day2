@@ -27,6 +27,7 @@ This contract allows users to register and manage tokens. Each token has a name,
 
 #### Deactivates a token (only owner can call).
 <img width="291" height="299" alt="image" src="https://github.com/user-attachments/assets/41580fdf-318d-43bf-8610-366f23675863" />
+
 #### After calling deactivateToken isActive becomes false
 <img width="291" height="299" alt="image" src="https://github.com/user-attachments/assets/25958a92-482c-45d8-beda-142158bee9ef" />
 
